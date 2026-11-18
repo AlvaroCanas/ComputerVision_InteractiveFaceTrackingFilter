@@ -13,6 +13,7 @@ env.bak/
 venv.bak/
 
 # Archivos temporales de calibración y modelos localmente generados
+patrones_calibracion/
 parametros_camara.npz
 *.log
 
